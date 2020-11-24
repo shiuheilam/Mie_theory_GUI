@@ -55,7 +55,7 @@ To import dielectric function data, enter a path of a .mat file containing
 the dielectric function. It should be given in two (n x 2) matrice named "Re"
 and "Im", where the first row is the wavelength in nanometer, and the second
 row is the real part or imaginary part of the dielectric function, 
-respectively.
+respectively. An example, "PANI.mat" is provided.
 
 
 
