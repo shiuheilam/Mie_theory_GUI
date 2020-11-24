@@ -43,5 +43,19 @@ Deployment Product Terms in the MathWorks Documentation
 Center.
 
 
+4. Descriptions
+
+Calculating the scattering spectrum of customized dielectric functions 
+using the Mie theory. Resolving their electric dipole (E1), magnetic dipole 
+(M1), electric quadrupole (E2) and magnetic quadrupole (M2) contributions. 
+Constant function, Drude model, Drude-Lorentz model, Lorentz model with two
+oscillators and data point import are available.
+
+To import dielectric function data, enter a path of a .mat file containing 
+the dielectric function. It should be given in two (n x 2) matrice named "Re"
+and "Im", where the first row is the wavelength in nanometer, and the second
+row is the real part or imaginary part of the dielectric function, 
+respectively.
+
 
 
