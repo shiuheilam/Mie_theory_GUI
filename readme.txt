@@ -58,4 +58,12 @@ row is the real part or imaginary part of the dielectric function,
 respectively. An example, "PANI.mat" is provided.
 
 
+5. Acknowledge
 
+The GUI is written based on the Mie theory code provided by 2008 Eric Le Ru 
+and Pablo Etchegoin.
+
+Reference:
+E. C. Le Ru and P. G. Etchegoin, Principles of Surface-Enhanced
+Raman Spectroscopy and Related Plasmonic Effects
+(Elsevier, Amsterdam, 2009).
